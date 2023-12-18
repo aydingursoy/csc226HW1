@@ -1,0 +1,2 @@
+mysql -u username -p
+CREATE DATABASE csc226db;
